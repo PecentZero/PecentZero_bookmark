@@ -1,0 +1,1 @@
+javascript:host =location.hostname.split(".")[location.hostname.split(".").length-2]+"."+location.hostname.split(".")[location.hostname.split(".").length-1];location.href = "https://www.google.com/search?q="+"site:"+host+" inurl:%25253A";
